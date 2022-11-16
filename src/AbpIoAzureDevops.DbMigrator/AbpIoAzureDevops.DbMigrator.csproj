@@ -39,4 +39,6 @@
     <ProjectReference Include="..\AbpIoAzureDevops.EntityFrameworkCore.DbMigrations\AbpIoAzureDevops.EntityFrameworkCore.DbMigrations.csproj" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1staging_1json__JsonSchema="https://carafe.fm/schema/draft-02/bundle.schema.json" /></VisualStudio></ProjectExtensions>
+
 </Project>
